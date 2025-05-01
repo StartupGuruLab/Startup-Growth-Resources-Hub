@@ -71,11 +71,3 @@ Resources for optimizing customer acquisition and retention:
 ---
 
 *This resource hub is maintained by [StartupGuruLab](https://startupgurulab.com), a platform dedicated to helping startups grow through data-driven insights and proven frameworks.*
-
-## Contributing
-
-We welcome contributions to this resource collection! Please submit a pull request or open an issue to suggest additional resources.
-
-## License
-
-This repository is licensed under the MIT License - see the LICENSE file for details.
